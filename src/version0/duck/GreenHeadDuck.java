@@ -1,4 +1,4 @@
-package duck;
+package version0.duck;
 
 public class GreenHeadDuck extends Duck{
     public void lookLike(){

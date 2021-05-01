@@ -1,4 +1,4 @@
-package duck;
+package version0.duck;
 
 public class Duck {
     public void quack() {
